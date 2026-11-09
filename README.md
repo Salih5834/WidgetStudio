@@ -49,7 +49,6 @@ pip install numpy pyaudiowpatch    # Ses görselleştirici (Windows)
 ## Kurulum
 
 ```bash
-git clone https://github.com/Salih5834/widget-studio.git
 cd widget-studio
 pip install PyQt6
 ```
