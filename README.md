@@ -1,5 +1,7 @@
 # Widget Studio
 
+🇹🇷 Türkçe | [🇬🇧 English](README.en.md)
+
 Rainmeter tarzı, masaüstüne serbestçe yerleştirilebilen çoklu widget sistemi. PyQt6 ile yazılmıştır.
 
 ## Özellikler
@@ -32,7 +34,7 @@ Rainmeter tarzı, masaüstüne serbestçe yerleştirilebilen çoklu widget siste
 
 ## Gereksinimler
 
-- Python 3.9 veya üzeri (kodu çalıştırdığın Python sürümüne göre doğrula)
+- Python 3.9 veya üzeri
 - PyQt6
 
 Tam deneyim için isteğe bağlı paketler:
