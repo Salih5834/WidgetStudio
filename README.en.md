@@ -49,7 +49,6 @@ Without `winsdk`, the media player reads the Spotify and YouTube titles from win
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/widget-studio.git
 cd widget-studio
 pip install PyQt6
 ```
