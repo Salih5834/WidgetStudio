@@ -2,6 +2,8 @@
 
 🇹🇷 Türkçe | [🇬🇧 English](README.en.md)
 
+![Widget Studio](widgetstudio.png)
+
 Rainmeter tarzı, masaüstüne serbestçe yerleştirilebilen çoklu widget sistemi. PyQt6 ile yazılmıştır.
 
 ## Özellikler
@@ -49,7 +51,8 @@ pip install numpy pyaudiowpatch    # Ses görselleştirici (Windows)
 ## Kurulum
 
 ```bash
-cd widget-studio
+git clone https://github.com/Salih5834/WidgetStudio.git
+cd WidgetStudio
 pip install PyQt6
 ```
 
