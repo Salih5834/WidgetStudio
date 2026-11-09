@@ -2,6 +2,8 @@
 
 [🇹🇷 Türkçe](README.md) | 🇬🇧 English
 
+![Widget Studio](widgetstudio.png)
+
 A Rainmeter-style multi-widget system that lets you place widgets freely on your desktop. Written with PyQt6.
 
 ## Features
@@ -49,7 +51,8 @@ Without `winsdk`, the media player reads the Spotify and YouTube titles from win
 ## Installation
 
 ```bash
-cd widget-studio
+git clone https://github.com/Salih5834/WidgetStudio.git
+cd WidgetStudio
 pip install PyQt6
 ```
 
